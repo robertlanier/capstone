@@ -11,7 +11,7 @@
  
 
 ### **Motivation**   
-Being a native Nashvillian one of the things I greatly enjoyed was our winter season. It was almost guaranteed we would have several snow days often lasting at least a week. Overtime Jack Frost visited us less and less what was replaced was more rain and eventually more severe thunderstorms, floods, and tornados. As I had my own family I severely wanted our children to enjoy those very same snow days I often loved. I want to be able to talk intelligently with my family and friends regarding Middle Tennessee weather patterns and trends with local data.
+Being a native Nashvillian one of the things I greatly enjoyed was our winter season. It was almost guaranteed we would have several snow days often lasting at least a week. Overtime Jack Frost visited us less and less what was replaced was more rain and eventually more severe thunderstorms, floods, and tornados. As I had my own family I severely wanted our children to enjoy those very same snow days I often loved. I want to be able to talk intelligently with my family and friends regarding Middle Tennessee weather patterns and trends with local data.   
 *Back to [Contents](#Contents)*
 
 
@@ -20,14 +20,16 @@ Being a native Nashvillian one of the things I greatly enjoyed was our winter se
 - Has precipitation patterns changed in Middle Tennessee?
 - Is our weather being affected by climate change?
 
+
 ### **Findings**
 - There appears to be a decline in snowfall from 1961 to 2021
-![Decline in Snowfall during Winter months](/data/avg_winter_snow.PNG)
+![Decline in Snowfall during Winter months](data/avg_winter_snow.PNG)
 
 
 ### **Known Issues and Challenges** 
 Possible issues and challenges will be using APIs for datasets from some websites as well as data that may be requested from Tennessee Climate Office and their turn around times. Challenges with aggregating weather data values and date time values. To overcome turn around challenges with Tennessee Climate Office I will engage with them early on in the project to give them enough time get the dataset back to me and allow for cleaning. To overcome aggregating and cleaning challenges I will be reaching out to my instructors and peers early with questions and strategies so quickly get data aggregated and clean prior to presentation creation. 
 *Back to [Contents](#Contents)*
+
 
 ### **Data Sources and Tools**   
 **Data Sources**   
