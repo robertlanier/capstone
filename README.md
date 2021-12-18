@@ -23,11 +23,11 @@ Being a native Nashvillian one of the things I greatly enjoyed was our winter se
 
 ### **Findings**
 - There appears to be a decline in snowfall from 1961 to 2021
-![Decline in Snowfall during Winter months](data/avg_winter_snow.PNG)
+![Decline in Snowfall during Winter months](https://github.com/robertlanier/capstone/blob/main/data/avg_winter_snow.png)
 
 
 ### **Known Issues and Challenges** 
-Possible issues and challenges will be using APIs for datasets from some websites as well as data that may be requested from Tennessee Climate Office and their turn around times. Challenges with aggregating weather data values and date time values. To overcome turn around challenges with Tennessee Climate Office I will engage with them early on in the project to give them enough time get the dataset back to me and allow for cleaning. To overcome aggregating and cleaning challenges I will be reaching out to my instructors and peers early with questions and strategies so quickly get data aggregated and clean prior to presentation creation. 
+Possible issues and challenges will be using APIs for datasets from some websites as well as data that may be requested from Tennessee Climate Office and their turn around times. Challenges with aggregating weather data values and date time values. To overcome turn around challenges with Tennessee Climate Office I will engage with them early on in the project to give them enough time get the dataset back to me and allow for cleaning. To overcome aggregating and cleaning challenges I will be reaching out to my instructors and peers early with questions and strategies so quickly get data aggregated and clean prior to presentation creation.   
 *Back to [Contents](#Contents)*
 
 
@@ -46,7 +46,7 @@ Possible issues and challenges will be using APIs for datasets from some website
 
 ### **Schedule**
 11/06/2021 ..... Get the data   
-12/06/2021 ..... Clean and explore the data   
+12/06/2021 ..... Clean and explore the data  
 12/17/2021 ..... Research correlations, create charts and dashboard draft  
 12/18/2021 ..... Internal demo  
 *Back to [Contents](#Contents)*
