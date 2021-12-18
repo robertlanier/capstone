@@ -22,7 +22,7 @@ Being a native Nashvillian one of the things I greatly enjoyed was our winter se
 
 ### **Findings**
 - There appears to be a decline in snowfall from 1961 to 2021
-![Decline in Snowfall during Winter months](./data/avg_winter_snow.PNG)
+![Decline in Snowfall during Winter months](/data/avg_winter_snow.PNG)
 
 
 ### **Known Issues and Challenges** 
@@ -44,7 +44,7 @@ Possible issues and challenges will be using APIs for datasets from some website
 
 ### **Schedule**
 11/06/2021 ..... Get the data   
-12/06/2021 ..... Clean and explore the data
+12/06/2021 ..... Clean and explore the data   
 12/17/2021 ..... Research correlations, create charts and dashboard draft  
 12/18/2021 ..... Internal demo  
 *Back to [Contents](#Contents)*
