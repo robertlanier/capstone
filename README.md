@@ -34,7 +34,7 @@ Possible issues and challenges will be using APIs for datasets from some website
 ### **Data Sources and Tools**   
 **Data Sources**   
 - This project uses data published by Texas A&M Univeristy Southern Regional Climate Center  
-- Data sample is between November 30th, 1961 and November 30, 2021
+- Data sample is between November 30th, 1961 and November 30, 2021  
 *Back to [Contents](#Contents)*
 
 **Tools**
